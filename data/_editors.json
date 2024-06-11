@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "icedragon",
+        "link": "https://www.youtube.com/@icedragon_"
     },
     {
         "role": "admin",
@@ -19,9 +19,3 @@
         "name": "Trial List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
-    {
-        "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    }
-]

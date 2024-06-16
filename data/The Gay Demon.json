@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=ISTl28wKSXc",
             "percent": 100,
             "hz": 60
+        },
+   {
+            "user": "gabinq",
+            "link": "https://cdn.discordapp.com/attachments/1250205635296100373/1251916269989396610/20240616_170642.mp4?ex=66705162&is=666effe2&hm=7c404960da98f302787f703a7fcd126da4b1d2e587093eb38b61f0b31cba5e72&",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

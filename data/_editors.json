@@ -5,18 +5,18 @@
         "link": "https://www.youtube.com/@icedragon_"
     },
     {
-        "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
         "role": "helper",
         "name": "gabinq",
         "link": "https://www.youtube.com/@Gabinq."
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "Swift",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "spxce",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]

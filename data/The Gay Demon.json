@@ -1,0 +1,17 @@
+{
+    "id": 1017,
+    "name": "The Gay Demon",
+    "author": "Swift",
+    "creators": ["Swift"],
+    "verifier": "Swift",
+    "verification": "",
+    "percentToQualify": "67",
+    "password": "Free To Copy",
+    "records": [
+   {
+            "user": "icedragon",
+            "link": "",
+            "percent": 100,
+            "hz": 60
+        }
+}

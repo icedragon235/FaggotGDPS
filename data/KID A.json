@@ -8,5 +8,23 @@
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
+   {
+            "user": "gabinq",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
+   {
+            "user": "icedragon",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
+   {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 60
+        }
          ]
 }

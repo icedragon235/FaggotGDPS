@@ -1,1 +1,24 @@
-
+{
+    "id": 1006,
+    "name": "memory level",
+    "author": "spxce",
+    "creators": ["spxce"],
+    "verifier": "spxce",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+   {
+            "user": "gabinq",
+            "link": "",
+            "percent": 100,
+            "hz": 120
+        },
+   {
+            "user": "aque",
+            "link": "https://mega.nz/file/bFoGSSJK#xXrvcryQo0gdntric6vUu3exBguZr2Uy-Ob8R58PeYo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

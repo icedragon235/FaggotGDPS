@@ -1,0 +1,18 @@
+{
+    "id": 1020,
+    "name": "skibidi level",
+    "author": "spxce",
+    "creators": ["spxce"],
+    "verifier": "spxce",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": "50",
+    "password": "Free To Copy",
+    "records": [
+   {
+            "user": "icedragon",
+            "link": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+            "percent": 100,
+            "hz": 60
+        }
+         ]
+}

@@ -4,9 +4,15 @@
     "author": "Swift",
     "creators": ["Swift"],
     "verifier": "Swift",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "verification": "https://youtu.be/mntgNrW0m3o",
     "percentToQualify": "67",
     "password": "Free To Copy",
     "records": [
+   {
+            "user": "gabinq",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 120
+        }
          ]
 }

@@ -8,5 +8,11 @@
     "percentToQualify": 53,
     "password": "Free To Copy",
     "records": [
+  {
+            "user": "aque",
+            "link": "https://mega.nz/file/aV5jXIDD#fPBlL4YEITdhwFXilod55u1pjX3tVsmwM1oFo2yOb8Y",
+            "percent": 100,
+            "hz": 240
+        }
          ]
 }

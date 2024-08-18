@@ -8,5 +8,11 @@
     "percentToQualify": 36,
     "password": "Free To Copy",
     "records": [
+   {
+            "user": "gabinq",
+            "link": "https://www.youtube.com/watch?v=-fe_42h90Eg",
+            "percent": 100,
+            "hz": 120
+        }
          ]
 }
